@@ -21,8 +21,8 @@ The goal of this dashboard was to simulate a real-world retail sales analysis ex
 ---
 
 ## 📸 Dashboard Snapshot
+[![Dashboard Preview](screenshots/madhav_dashboard_preview.png)](screenshots/madhav_dashboard_preview.png)
 
-![Dashboard Preview](screenshots/madhav_dashboard_preview.png)
 
 ---
 
