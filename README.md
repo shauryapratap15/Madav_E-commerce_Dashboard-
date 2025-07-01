@@ -1,4 +1,4 @@
-# Madav_E-commerce_Dashboard- Power BI Project
+# Madav_Ecommerce_Dashboard- Power BI Project
 
 This dashboard analyzes e-commerce data for a fictional brand called **Madhav**, helping stakeholders understand trends in sales, profit, quantity, customer segments, and payment preferences — all in one visual story.
 
